@@ -55,7 +55,7 @@ A modern product listing page with shopping cart functionality built using **Rea
 
 
 ## 🙋‍♂️ Author
-👤 Prince Vishwakarma
-📧 Connect with me (prince.pv.14.2000@gmail.com)
-🌐 Portfolio (https://zonetocode.com/)
-🐙 GitHub: @Prince142001
+- 👤 Prince Vishwakarma
+- 📧 Connect with me (prince.pv.14.2000@gmail.com)
+- 🌐 Portfolio (https://zonetocode.com/)
+- 🐙 GitHub: @Prince142001
